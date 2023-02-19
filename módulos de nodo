@@ -1,0 +1,4 @@
+pkg install nodejs
+npm install cloudflare-bypasser
+npm install randomstring
+npm install fake-useragent
